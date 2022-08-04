@@ -3,6 +3,7 @@ import ReactMarkdown from "react-markdown";
 import reactMarkdown from "react-markdown";
 import classes from "./post-content.module.css";
 import PostHeader from "./post-header";
+
 const DUMMY_POST = {
   slug: "getting-started-with-nextjs",
   title: "Getting started with Nextjs",
